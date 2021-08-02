@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.idea
+.vagrant
+.vscode
+VagrantFile
+bower_components/
+node_modules
+compile
+package-lock.json
+.env

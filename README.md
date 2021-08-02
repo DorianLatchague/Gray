@@ -1,0 +1,1 @@
+Gray is a state history module built for React that enables undo and redo functionality
